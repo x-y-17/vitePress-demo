@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "祝贺林总高升高途"
-  text: "666666"
+  name: "臭鱼烂虾kk和臭鱼烂虾smy下午好"
+  text: "王冠牛逼👑"
   tagline: My great project tagline
   actions:
     - theme: brand
