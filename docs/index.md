@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "臭鱼烂虾kk和臭鱼烂虾smy下午好"
-  text: "王冠牛逼👑"
+  name: "smy什么时候请👑吃饭"
+  text: "eat eat eat"
   tagline: My great project tagline
   actions:
     - theme: brand
