@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "smy什么时候请👑吃饭"
-  text: "eat eat eat"
+  text: "臭鱼烂虾kk只会改html"
   tagline: My great project tagline
   actions:
     - theme: brand
