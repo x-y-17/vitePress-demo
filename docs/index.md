@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "smy什么时候请👑吃饭"
-  text: "臭鱼烂虾kk只会改html"
+  name: "smy和kk是天下第一坏女人"
+  text: "坏女人"
   tagline: My great project tagline
   actions:
     - theme: brand
