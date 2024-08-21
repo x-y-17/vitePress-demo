@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "smy和kk是天下第一坏女人"
-  text: "坏女人"
+  name: "天下第一女主播"
+  text: "最棒"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
