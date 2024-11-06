@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "天下第一女主播"
-  text: "最棒"
+  name: "福尔摩克是笨蛋"
+  text: "+10086"
   tagline: My great project tagline
   actions:
     - theme: brand
