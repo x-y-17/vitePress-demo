@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "福尔摩克是笨蛋"
+  name: "福尔摩可是笨蛋pro"
   text: "+10086"
   tagline: My great project tagline
   actions:
