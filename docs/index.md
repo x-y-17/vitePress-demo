@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "福尔摩可是笨蛋pro"
-  text: "+10086"
+  name: "福尔摩可是小仙女🧚‍♀️"
+  text: "羽毛球天下第一"
   tagline: My great project tagline
   actions:
     - theme: brand
