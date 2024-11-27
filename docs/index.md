@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "渣"
-  text: "wg kk smy"
+  name: "Tina nb"
+  text: "比比芭比波"
   tagline: My great project tagline
   actions:
     - theme: brand
