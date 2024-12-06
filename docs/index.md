@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Tina nb"
-  text: "比比芭比波"
+  name: "下周哪天打球"
+  text: "where when play"
   tagline: My great project tagline
   actions:
     - theme: brand
